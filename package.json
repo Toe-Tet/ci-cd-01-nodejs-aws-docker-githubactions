@@ -1,0 +1,7 @@
+{
+    "name": "01-nodejs-aws-docker-githubactions",
+    "description": "https://medium.com/@chsherryy/creating-a-ci-cd-pipeline-for-deploying-a-node-js-app-using-github-actions-3e427e745f60",
+    "dependencies": {
+        "express": "^4.18.3"
+    }
+}
